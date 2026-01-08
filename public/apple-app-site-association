@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["com.highway.highwaymobile.qa", "com.highway.highwaymobile.dev"],
+        "components": [
+          {
+            "/": "/mobile/*",
+            "comment": "Matches any URL whose path starts with /mobile/"
+          }
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["M7GZVWBRHT.com.highway.highwaymobile.qa", "M7GZVWBRHT.com.highway.highwaymobile.dev"]
+  }
+}
